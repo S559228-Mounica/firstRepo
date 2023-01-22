@@ -1,5 +1,5 @@
 A Alligator
 B Bat
-C Cat (Change on line 3)
+C Cougar
 D Duck
-E Eagle (Change on line 5)
+E Elephant
